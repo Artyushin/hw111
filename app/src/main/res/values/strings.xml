@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Список с custom элементами</string>
+    <string name="main_menu_settings">Настройки</string>
+    <string name="main_menu_note">Записная книжка</string>
+    <string name="note_text">Заметка</string>
+    <string name="save_button">Сохранить</string>
+    <string name="save_info">Данные сохранены</string>
+    <string name="main_menu_login">Регистрация</string>
+    <string name="main_menu_payment">Платеж</string>
+    <string name="User">Имя пользователя</string>
+    <string name="Email">Электронная почта</string>
+    <string name="OK">ОК</string>
+    <string name="Clear">Очистить</string>
+    <string name="input_money">Сумма</string>
+    <string name="input_info">Информация об оплате</string>
+    <string name="btn_ok">Оплатить</string>
+    <string name="bank_card">С банковской карты</string>
+    <string name="mobile_phone">С мобильного телефона</string>
+    <string name="cash_address">Наличными по адресу</string>
+    <string name="info_toast">Платеж в обработке. </string>
+</resources>
