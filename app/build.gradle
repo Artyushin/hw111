@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "com.artyushin.hw052"
+        applicationId "com.artyushin.hw111"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
